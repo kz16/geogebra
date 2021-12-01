@@ -1,1 +1,1 @@
-https://cdn.jsdelivr.net/gh/kz16/geogebra
+https://cdn.jsdelivr.net/gh/kz16/geogebra/
